@@ -1,2 +1,2 @@
-# Astar-plugins
+# SriAstar-plugins
 Plugins for Astar project for path finding, by Ron Coleman. 
